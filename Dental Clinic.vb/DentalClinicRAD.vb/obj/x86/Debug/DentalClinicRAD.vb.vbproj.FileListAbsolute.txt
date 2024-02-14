@@ -1,0 +1,56 @@
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.exe
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.pdb
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.xml
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Appoinments.resources
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Main.resources
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Resources.resources
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Login.resources
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Patients.resources
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Treatments.resources
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.GenerateResource.Cache
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.exe
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.xml
+C:\Users\Lakshika\AppData\Local\Temporary Projects\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.pdb
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.exe
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.xml
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.pdb
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.exe
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.pdb
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.xml
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Appoinments.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Main.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Resources.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Login.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Patients.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Prescription.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Treatments.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.GenerateResource.Cache
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DClinic.mdf
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DClinic_log.ldf
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.exe.config
+C:\Users\Lakshika\Documents\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Dashboard.resources
+C:\Users\Lakshika\documents\visual studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\Guna.UI.dll
+C:\Users\Lakshika\Documents\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.AssemblyReference.cache
+C:\Users\Lakshika\Documents\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.CoreCompileInputs.cache
+C:\Users\Lakshika\Documents\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.CopyComplete
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DClinic.mdf
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DClinic_log.ldf
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.exe.config
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.exe
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.pdb
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\bin\Debug\DentalClinicRAD.vb.xml
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.AssemblyReference.cache
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Appoinments.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Dashboard.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Main.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Resources.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Login.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Patients.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Prescription.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.Treatments.resources
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.GenerateResource.cache
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.CoreCompileInputs.cache
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.vbproj.CopyComplete
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.exe
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.xml
+F:\Desktop backup\Visual Studio 2010\Projects\DentalClinicRAD.vb\DentalClinicRAD.vb\obj\x86\Debug\DentalClinicRAD.vb.pdb

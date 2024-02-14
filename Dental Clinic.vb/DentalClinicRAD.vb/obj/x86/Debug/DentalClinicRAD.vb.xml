@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DentalClinicRAD.vb
+</name>
+</assembly>
+<members>
+<member name="T:DentalClinicRAD.vb.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._1964670">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._239_2399138_dentist_treating_a_patient_transparent_dental_png_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._2696123">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._26961231">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._272_2721169_dental_clinic_vector_logo_template_oral_hygiene_teeth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._272_2721169_dental_clinic_vector_logo_template_oral_hygiene_teeth1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._272_2721169_dental_clinic_vector_logo_template_oral_hygiene_teeth2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._272_2721169_dental_clinic_vector_logo_template_oral_hygiene_teeth3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._3488906">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._360_F_260730234_3IqGWTbg0diJSl29AEeryxmqzEGHbaIU">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources._360_F_313635035_pIDfSyqAbwhRuQu2dRMqHsMDOwnBZMRE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DentalClinicRAD.vb.My.Resources.Resources.png_clipart_human_tooth_dentist_tooth_enamel_tooth_whitening_crown_logo_dentistry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DentalClinicRAD.vb.DClinicDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
